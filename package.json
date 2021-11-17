@@ -1,6 +1,6 @@
 {
     "name": "@enso-ui/google",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "description": "google package",
     "main": "src/bulma/pages/google/Index.vue",
     "scripts": {
