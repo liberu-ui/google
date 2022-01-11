@@ -2,6 +2,7 @@
 /.vscode
 /.idea
 npm-debug.log
+.npmrc
 .DS_STORE
 ._*
 yarn.lock
